@@ -1,1 +1,1 @@
-# Bar_Element
+The finite element method (FEM) is a numerical method for solving problems in engineering and mathematical physics. Typical problem areas of interest include structural analysis, is utilize linear-static Finite Element Method (FEM) analysis of solids and structures.
